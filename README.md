@@ -49,7 +49,7 @@ MoERL is licensed under the Apache License, Version 2.0. However, this project d
 ### 📦 LGPLv3 Dependencies
 
 - **Library Name**: `unsloth-zoo`  
-- **License**: GNU Lesser General Public License v3.0 (LGPL-3.0)  
+- **License**: LGPL-3.0-or-later  
 - **Source Repository**: [https://github.com/unslothai/unsloth-zoo](https://github.com/unslothai/unsloth-zoo)  
 - **Usage in MoERL**: Dynamically imported at runtime (no source code copied).
 
@@ -65,7 +65,7 @@ If you want to inspect or use `unsloth-zoo`, you can find its source code at the
 ### 🔗 References & Licensing
 
 - 🦥 [unsloth-zoo](https://github.com/unslothai/unsloth-zoo) 
-- 📚 [GNU LGPLv3 License (official)](https://www.gnu.org/licenses/lgpl-3.0.html)  [SPDX Reference](https://spdx.org/licenses/LGPL-3.0-only.html)
+- 📚 [GNU LGPLv3 License (official)](https://www.gnu.org/licenses/lgpl-3.0.en.html)  | [SPDX Reference](https://spdx.org/licenses/LGPL-3.0-or-later.html)
 - 📜 [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0)  
   
 
